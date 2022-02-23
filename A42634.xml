@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Interrogatories on the part and behalf of the people of England prepared for the use of the Committee of Grievances by R.G. and P.B.</title>
+            <author>R. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42634</idno>
+            <idno type="STC">Wing G54</idno>
+            <idno type="STC">ESTC R11479</idno>
+            <idno type="EEBO-CITATION">13791643</idno>
+            <idno type="OCLC">ocm 13791643</idno>
+            <idno type="VID">101856</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42634)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 454:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Interrogatories on the part and behalf of the people of England prepared for the use of the Committee of Grievances by R.G. and P.B.</title>
+                  <author>R. G.</author>
+                  <author>P. B.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Probable place of publication and date from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101856:1"/>
+            <head>Interrogatories on the part and behalf of the People of <hi>England,</hi> prepared for the <g ref="char:V">Ʋ</g>ſe of the <hi>Committee</hi> of <hi>Grievances.</hi>
+            </head>
+            <byline>By <hi>R. G.</hi> and <hi>P. B.</hi>
+            </byline>
+            <div n="1" type="part">
+               <head>1. Concerning the Clergy.</head>
+               <p>HAVE any of them broken the Laws, and which, and where, and when? Who read King <hi>Charles</hi> the Second's Declara<g ref="char:EOLhyphen"/>tion of Reaſons for diſſolving the <hi>Oxford</hi> Parliament, without Order from their Dioceſan? Who read the late King's Declaration for Liberty of Conſcience, without the like Order? who firſt omitted the Prayers for the late King and Royal Family, without Order from Dioceſan or Convention? Which of them did two years ſince preach up the Sovereign Supreme Diſpenſing Pow<g ref="char:EOLhyphen"/>er? Which of them did ſeven Months ſince preach down the juſt and legal Prerogatives of the Crown? Which of them do now preach down the genuine and fundamental Authority of an Engliſh Parlia<g ref="char:EOLhyphen"/>ment (that is, for King <hi>James</hi> againſt King <hi>James,</hi> and for King <hi>James</hi> again?) And laſtly, which of them have borrowed Pulpits to proclaim their aver<g ref="char:EOLhyphen"/>ſion to their preſent Majeſties, and at the ſame time ſeem to pray for them? Do you know of any that have done all theſe or any, and which of them, and when, and where, and in what words? declare your knowledge.</p>
+            </div>
+            <div n="2" type="part">
+               <head>2. Concerning the Obſervator.</head>
+               <p>What Penſion had he from Court, by whoſe pro<g ref="char:EOLhyphen"/>curement, and who paid it? What Encouragements from Parſons and Lawyers, and other of their follow<g ref="char:EOLhyphen"/>ers, and when and how collected, and by whom? tell the Names, times, and Sums, as you know, be<g ref="char:EOLhyphen"/>lieve, or have heard? Pray Sir, declare your know<g ref="char:EOLhyphen"/>ledge, what Gratuity he and his Amanuenſis had, and from whom, and by whom paid, for Sir <hi>Edm. Godfrey</hi>'s Vindication? Declare the like concerning <hi>Oats</hi>'s his Tryals, and the Preparations for them: Ben't afraid.</p>
+            </div>
+            <div n="3" type="part">
+               <head>3. Concerning the Popiſh Plot?</head>
+               <p>Whether any of <hi>Godfrey</hi>'s Murtherers did confeſs, and unto whom, and what is become of that confeſ<g ref="char:EOLhyphen"/>ſion? have you heard? tell the truth, who was the firſt acquitted in that time, of what Country, by what Jury, before what Judges, who were the Witneſſes? What did theſe ſwear? and what did thoſe direct? and how they were received at Court afterwards? Declare your knowledge, How was the ſecond and third Acquittal? Tell likewiſe in particular, as if every queſtion of the firſt were repeated; Who were preſent at <hi>Wakeman</hi>'s Tryal? how was the Judges demeanour? what did they ſay? what was ſaid by thoſe of the Kings Bench the firſt day of the Term following? Tell which of the Judges did not ſpeak, which did, and what: Speak out; whether you have heard that all <hi>Coleman</hi>'s Letters were print<g ref="char:EOLhyphen"/>ed or not, and if not all, how many, and which were omitted, and by whom? Declare how <hi>Oats</hi> and <hi>Dan<g ref="char:EOLhyphen"/>gerfield</hi> were handled, and what became of them, and after that I'll ask you about <hi>Prance.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <head>4. Concerning Corporations, Companies, Charters, &amp;c.</head>
+               <p>What do you imagine is their number in <hi>England,</hi> what may each Charter coſt to be renewed? how many were ſo, how many were voluntarily ſurren<g ref="char:EOLhyphen"/>dred, and which, and by whom, and what Encou<g ref="char:EOLhyphen"/>ragements or Rewards before or after had they for their Conſent, how many were ſued and ſtood out? Who was the firſt Adviſer to <hi>Quo Warranto</hi>'s? what Judges, or Counſel, or Agents concerned, or did any refuſe? declare your knowledge. How many were renewed, what new Clauſes were inſerted, and by whom? what Perſons were turned out, what Clerks or other Officers removed, and who put in their pla<g ref="char:EOLhyphen"/>ces, and what did they pay? Who certified for the latter as very Loyal, and the former as Whiggiſh diſ<g ref="char:EOLhyphen"/>affected Perſons; where were die Certificates made, at which <hi>Devil Tavern</hi> in <hi>Fleet-ſtreet,</hi> or other where, who was preſent, what Lawyers, Chancery-men, Common Councel-men, Scriveners, or other Shop<g ref="char:EOLhyphen"/>keepers? Who repreſented a Loyaller and fitter man than himſelf for a damn'd Whigg, and ſo put him by an Office he had agreed and paid for, and got it himſelf? Does he enjoy it yet? Speak out, th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nation's concern'd in theſe things: Who were ſent to manage Corporations to repeal the Teſt <hi>&amp;c.</hi> who paid their charges? what Inſtructions had they? who were Cloſetted for Members? how many of them promiſed to do it? declare their Names and Abodes, and what Rewards they had.</p>
+            </div>
+            <div n="5" type="part">
+               <head>5. Concerning Judgments in Weſtmin<g ref="char:EOLhyphen"/>ſter-Hall.</head>
+               <p>Where did great Fines begin, who ſet them, and upon whom, and for what? Have you heard of 30000. <hi>l.</hi> ſet on a Peer for a Fillip on the Fore<g ref="char:EOLhyphen"/>head? what Judges were preſent which pronoun<g ref="char:EOLhyphen"/>ced it; did all conſent? whether did a Commitment follow, and by whoſe motion? ſpeak out. When came up the faſhion of whipping through the ſtreets, upon whom inflicted, and by what Judges, and for what Crimes, <hi>&amp;c?</hi> Declare your knowledge, who were Judges in Sir <hi>Edward Hales</hi>'s Caſe, what Judg<g ref="char:EOLhyphen"/>ment gave they? did any diſſent, and when, and where, and before whom did they declare it? ſpeak the whole truth.</p>
+            </div>
+            <div n="6" type="part">
+               <head>6. Concerning Juries.</head>
+               <p>When was the trade of packing them firſt invent<g ref="char:EOLhyphen"/>ed? who were the Abhorrers of Petitioning for a Parliament, and who was Knighted for it? Do you know the <hi>Queens-head</hi> Tavern in <hi>Pater-noster-Row,</hi> the <hi>Wonder</hi> Tavern on <hi>Ludgate-Hill,</hi> the <hi>Feathers</hi> in <hi>Cheapſide,</hi> the <hi>Globe</hi> in <hi>Hatton</hi> Garden, and the <hi>Sun</hi> at <hi>Westminſter?</hi> Were you ever in <hi>Pater-noster-Row</hi> when Juries were impannelled, who was there be<g ref="char:EOLhyphen"/>ſide, who ſate as Chair-man, who wrote their Names, who dictated whoſe Character was of beſt credit for right men to be on a Jury? whoſe Names
+<pb n="2" facs="tcp:101856:2"/>were refuſed, whoſe allowed? tell us their Trades, Qualities, Fortunes, and places of abode: who read the Pannel, who carried it away, who deliver'd it to the Secondaries? were thoſe men returned, did they appear, did they do the buſineſs cleverly? have you not heard of the ſame thing afterwards at the other Taverns? were you never invited to meet ſome honeſt Juſtice, Jury-men, and whom by Name, at — who altered the free-holders book, and what arti<g ref="char:EOLhyphen"/>fices were, uſed at the Tryal of the Seven Biſhops, and who gave the Inſtructions to the Jury before<g ref="char:EOLhyphen"/>hand, and what were thoſe Inſtructions, and which of the whole pannel were ſure Men? did you never obſerve a ſett of Security Men, and whom by name, plying in the Hall, as the Watermen at the Stairs? did you never know, and how often, a Worſhipful Deputy pack a Jury, and make himſelf foreman of it? what gratuity have you known in ſuch caſe, and what difference as to that made between a criminal cauſe and a civil, and between a Tryal at the Bar and th' old <hi>Bayly?</hi> Fray tell in, did you never ſee a Jury treated at <hi>Weſtminſter</hi> or elſewhere, after a criminal Tryal, what entertainment and by whom, what Money too, and to which of them given, to diſtribute? Come, come, out with it, tell us what did the Gang uſe to ſay upon thoſe occaſions? you need hot ſear, the heads are in the Tower now?</p>
+            </div>
+            <div n="7" type="part">
+               <head>7. Concerning State Tryal.</head>
+               <p>What Judges, Counſel, Jury, and Witneſſes were in <hi>Colledge</hi>'s Tryal, who took his Tapers away, and who did mannage it, and how; declare the like concerning <hi>Ruſſel's, Sidney</hi>'s, and <hi>Corniſh</hi>'s, and who pronounced the Sentence? and the ſame for the Soldiers; what Juſtice of Peace committed them, what Juries in Towns of Countries found Bills againſt them; what Judges tryed them, what Juries con<g ref="char:EOLhyphen"/>victed them, and who condemned them? and pray tell us in thoſe Tryals how much might be ſpent in Juries dinners, and how many Guineys they had in each, and by whom paid, and how long that trade of gratifying Juries in Capital Cauſes hath been in faſhion, and by whom adviſed and introduced?</p>
+            </div>
+            <div n="8" type="part">
+               <head>8. Concerning the Weſtern Campaign.</head>
+               <p>What Judges went, what Counſel, what Aſſiſtants, and what Examiners? how was my Lady <hi>Liſle</hi>'s Tryal mannaged, who were Jurors, now retorned, and by whom? how often was the Pannel altered, and by whom? what Evidence was given, what Records produced againſt <hi>Hicks,</hi> for harbouring of whom ſhe was Executed? to be ſhort, how much Blood was there ſpilt, and how much Money got by it, and by whom? who invented that dextrous way of diſparching the Crowd, and who mannaged it with moſt applauſe? was there none hanged without Proceſs, Tryals, or Indictments, tell us by whom, and how many? do you know of any Act of attainder produced as their Warrant? and after that buſineſs was over in the <hi>Weſt,</hi> were the Soldiers disbanded, or were they billeted againſt the Peoples wills? do you know of any Juſtice of Peace that did ſo? do you know any Lawyer or Juſtice that did it? declare.</p>
+            </div>
+            <div n="9" type="part">
+               <head>9. Concerning the high Commiſſion Court.</head>
+               <p>Who adviſed it? who drew it? who ſate in it? what Sentences did they paſs, and againſt whom, and with whoſe conſent? how often was it renewed, and what added? who were left out, and who put in, who went down to <hi>Oxford</hi> to ſee a Smith break open Doors? who attended them? who was Clerk, Regiſter, and Meſſenger to that Court? declare.</p>
+            </div>
+            <div n="10" type="part">
+               <head>10. Concerning Witneſſes.</head>
+               <p>Who hired <hi>Saxton</hi> againſt the Lord <hi>Delamer,</hi> Sir <hi>R. Cotton</hi> and Mr. <hi>Offley?</hi> what had he for ſwearing? who releas'd him out of <hi>Newgate,</hi> and where is he now? who Brib'd the two Clerks of the Houſe of Commons to abſcond, when lawfully Subpana'd to bring their Books and give Evidence in behalf of that Noble Lord, &amp;c. what reward had they? and whoſe Money was it? and tell what Fees they ex<g ref="char:EOLhyphen"/>torted from Mr. <hi>Williams</hi> at his Tryal for the uſe of their Books, and who paid them for their ſervice at that Tryal againſt him?</p>
+            </div>
+            <div n="11" type="part">
+               <head>11. Concerning Fines, &amp;c.</head>
+               <p>Who had the Revenue of the Arch-<hi>Biſhoprick</hi> of <hi>York?</hi> who receiv'd it? and to whoſe uſe paid? to whom and to what uſe was the E. of D—s fine of 30000 l. given? what became of Mr. <hi>Willams</hi>'s 10000 l. who was it paid to? what purchaſes were made? what Chappels, and Jeſuits Schools built? of whom purchaſed? By whom and how?</p>
+            </div>
+            <div n="12" type="part">
+               <head>12. Concerning the Earl of Eſſex's mur<g ref="char:EOLhyphen"/>der, &amp;c.</head>
+               <p>Who mannaged the Coroners Inqueſt at the E. of <hi>Eſſex</hi>'s murder? who waſh't his Room? and what became of the Lord <hi>Allington?</hi> how did he dye, when, and where, and who did he drink with be<g ref="char:EOLhyphen"/>fore his death? and how dyed Captain <hi>Cheek,</hi> if you can tell?</p>
+            </div>
+            <div n="13" type="part">
+               <head>13. Concerning chooſing the Parlia<g ref="char:EOLhyphen"/>ment in 85.</head>
+               <p>Who mannaged the Parliament in 1685. who appointed the Perſons that were choſen; and what methods were taken therein, and by whom? and what careful Inſtructions were ſent to the Militia Officers, Juſtices, Sheriffs, and Clergy about it, &amp;c?</p>
+            </div>
+            <div n="14" type="part">
+               <head>14. Concerning Mr. <hi>B</hi>'s eſcape.</head>
+               <p>Who committed him, and for what, and whi<g ref="char:EOLhyphen"/>ther, and how long was he there, how got he out, who bailed him, and what were his bail, and in what Sums? which of the proſecutors conſented to it, what Counſel adviſed it, and what Fees were paid for the ſame? declare the truth and nothing but the truth; So help you God.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
